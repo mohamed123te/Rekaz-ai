@@ -1,0 +1,6 @@
+Flask
+requests
+feedparser
+gunicorn
+flask-limiter
+flask-talisman
